@@ -6,19 +6,36 @@
 ----------------------------------------------------
 
 # About
-A python script that can be compiled into an exe on the users end which automatically update your RCO when run and also installs RCO if you don't have it.
+This is a github repository that currently contains 2 methods of automatically updating RCO and installing it if the user doesn't have RCO. A python script & Batch script. 
+
+# Features
+Automatically installs RCO when ran. If you want to know what RCO does check [this](https://github.com/L8X/Roblox-Client-Optimizer#features) out.
+
+# How to use
+
+There are two methods of using the RCO Installer. You can either use the Python version which requires you to install python, or the batch version which only requires you to use Windows as an operating system. Also if it isn't obvious, you need Roblox installed.
+
+<br>
+
+## Batch Installer (easiest)
+Downlaod the whole repository, unzip it then navigate to `RCO-Auto-Installer` > `Batch Installer` > `RCO.bat`. Now run `RCO.bat` by opening it.
+
+<br>
+
+Don't trust `RCO.bat`?. Well you can view what the batch script is executing. Open Notepad or any other text editor, press `ctrl + o` and navigate to `RCO.bat`. Open it and you can view the code, with assistance of my comments so you know what's going on.
+
+## Python Installer
+
+First you need python which you can get [here](https://apps.microsoft.com/store/detail/python-311/9NRWMJP3717K). I recommend installng the latest version if possible.
+
+<br>
+
+Now that you have installed python, go ahead and download this repository. Once downloaded, unzip the folder and navigate to `RCO-Auto-Installer` > `Python Installer`. Because this python script uses the request module you have install it. You can do this buy running `Dependencies.bat`. Now to update/install RCO run `Update & Installer.bat`.
+
+<br>
+Now everytime you run `Update & Installer.bat` RCO will be updated to the latest version. You can also run the python script in Visual Studio Code or any 
 
 # FAQ
 
 ## Why Does This Exist?
-I got bored and some of my friends don't trust the `RCOInstaller.exe` even though the project is open source.
-
-## How do I use this?
-First you need python which you can get [here](https://www.python.org/downloads/). I recommend installng the latest version. Once installed, run the exe and go through the installation like any normal app. If you still don't understand use this [tutorial](https://www.youtube.com/watch?v=bjE7XQV4s-k) from a random guy i found on youtube.
-
-<br>
-
-Now that you have installed python, go ahead and [download this repository](https://codeload.github.com/ShashTheEpic/RCO-Auto-Installer/zip/refs/tags/v1.0.0). Once downloaded, unzip the zip file and open the folder containing `RCO.py`. Because this python script uses the request module you have install it. You can do this buy running `Dependencies.bat`. Now to update/install RCO run `Update & Installer.bat`.
-
-<br>
-Now everytime you run `Update & Installer.bat` RCO will be updated to the latest version. You can also run the python script in Visual Studio Code or any 
+I got bored and some of my friends don't trust the `RCOInstaller.exe` even though the project is open source. Also if RCO's Installer doesn't work people can use this.

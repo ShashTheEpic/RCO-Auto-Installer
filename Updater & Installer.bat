@@ -1,1 +1,0 @@
-start pythonw "RCO.py"
