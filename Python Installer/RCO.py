@@ -31,7 +31,7 @@ try:
         print("New data has been written to", RobloxClientSettingsDir)
 
         # If you get errors you are informed
-    except json.JSONDecodeError as e:
-        print("Error occurred while parsing the JSON:", e)
-except requests.exceptions.RequestException as e:
-    print("Error occurred while fetching the JSON file:", e)
+    except json.JSONDecodeError as error:
+        print("Error occurred while parsing the JSON:", error)
+except requests.exceptions.RequestException as error:
+    print("Error occurred while fetching the JSON file:", error)
