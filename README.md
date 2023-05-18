@@ -18,7 +18,7 @@ There are two methods of using the RCO Installer. You can either use the Python 
 ### Batch Installer (easiest)
 Downlaod the whole repository, unzip it then navigate to `RCO-Auto-Installer` > `Batch Installer` > `RCO.bat`. Now run `RCO.bat` by opening it.
 <br>
-Don't trust `RCO.bat`?. Well you can view what the batch script is executing. Open Notepad or any other text editor, press `ctrl + o` and navigate to `RCO.bat`. Open it and you can view the code, with assistance of my comments so you know what's going on.
+Don't trust `RCO.bat`? Well you can view what the batch script is executing. Open Notepad or any other text editor, press `ctrl + o` and navigate to `RCO.bat`. Open it and you can view the code, with assistance of my comments so you know what's going on.
 
 ### Python Installer
 First you need python which you can get [here](https://apps.microsoft.com/store/detail/python-311/9NRWMJP3717K). I recommend installng the latest version if possible.
