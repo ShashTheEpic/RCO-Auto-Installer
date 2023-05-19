@@ -31,3 +31,6 @@ Now everytime you run `Update & Installer.bat` RCO will be updated to the latest
 
 ### Why Does This Exist?
 I got bored and sometimes RCO's offical installer doesn't work, so people can use this.
+
+### Something isn't working? Got an error?
+Explain your experience [here](https://github.com/ShashTheEpic/RCO-Auto-Installer/issues/new)
