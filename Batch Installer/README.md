@@ -1,5 +1,5 @@
 # Batch Installer (easiest)
-[Downlaod](https://github.com/ShashTheEpic/RCO-Auto-Installer/archive/refs/tags/v1.1.0.zip) the whole repository, unzip it then navigate to `RCO-Auto-Installer` -> `Batch Installer` -> `RCO.bat`. Now run `RCO.bat` by opening it.
+[Downlaod](https://github.com/ShashTheEpic/RCO-Auto-Installer/archive/refs/tags/v1.1.0.zip) the whole repository, unzip it then navigate to `RCO-Auto-Installer-main` -> `Batch Installer` -> `RCO.bat`. Now run `RCO.bat` by opening it.
 
 If you don't want to download the whole repository, you can just [download](https://github.com/ShashTheEpic/RCO-Auto-Installer/edit/main/Batch%20Installer/RCO.bat) the batch file
 
