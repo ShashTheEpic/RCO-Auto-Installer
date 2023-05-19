@@ -30,4 +30,4 @@ Now everytime you run `Update & Installer.bat` RCO will be updated to the latest
 # FAQ
 
 ## Why Does This Exist?
-I got bored and some of my friends don't trust the `RCOInstaller.exe` even though the project is open source. Also if RCO's Installer doesn't work people can use this.
+I got bored and sometimes RCO's offical installer doesn't work, so people can use this.
