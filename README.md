@@ -29,5 +29,5 @@ Now everytime you run `Update & Installer.bat` RCO will be updated to the latest
 
 # FAQ
 
-## Why Does This Exist?
+### Why Does This Exist?
 I got bored and sometimes RCO's offical installer doesn't work, so people can use this.
