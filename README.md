@@ -34,3 +34,5 @@ I got bored and sometimes RCO's offical installer doesn't work, so people can us
 
 ### Something isn't working? Got an error?
 Explain your experience [here](https://github.com/ShashTheEpic/RCO-Auto-Installer/issues/new)
+
+### I'm having problems with RCO
