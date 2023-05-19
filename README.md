@@ -16,8 +16,8 @@ Automatically installs RCO when ran. If you want to know what RCO does check [th
 There are two methods of using the RCO Installer. You can either use the Python version which requires you to install python, or the batch version which only requires you to use Windows as an operating system. Also if it isn't obvious, you need Roblox installed.
 
 ### Batch Installer (easiest)
-[Downlaod](https://github.com/ShashTheEpic/RCO-Auto-Installer/archive/refs/tags/v1.1.0.zip) the whole repository, unzip it then navigate to `RCO-Auto-Installer-main` -> `Batch Installer` -> `RCO.bat`. Now run `RCO.bat` by opening it.
-<br>
+[Downlaod](https://github.com/ShashTheEpic/RCO-Auto-Installer/archive/refs/tags/v1.1.0.zip) the whole repository, unzip it then navigate to `RCO-Auto-Installer-main` -> `Batch Installer` -> `RCO.bat`. Now run `RCO.bat` by opening it. Note that you have to run this everytime Roblox or RCO updates. A future version will include an option to automatically update.
+
 Don't trust `RCO.bat`? Well you can view what the batch script is executing. Open Notepad or any other text editor, press `ctrl + o` and navigate to `RCO.bat`. Open it and you can view the code, with assistance of my comments so you know what's going on.
 
 ### Python Installer
