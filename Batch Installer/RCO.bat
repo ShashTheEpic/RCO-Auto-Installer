@@ -1,7 +1,7 @@
 @echo off
 
 REM Obtains the latest version of ClientAppSettings.json 
-set RCO_url=https://raw.githubusercontent.com/L8X/Roblox-Client-Optimizer/main/assets/ClientAppSettings.json 
+set RCO_url=https://raw.githubusercontent.com/L8X/Roblox-Client-Optimizer/main/ClientAppSettings.json 
 REM https://roblox-client-optimizer.simulhost.com/ClientAppSettings.json is an alternative link to use
 set RobloxVersionDir=C:\Users\%username%\AppData\Local\Roblox\Versions
 

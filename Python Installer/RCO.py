@@ -5,7 +5,7 @@ import os
 import glob
 
 # Obtains latest version of ClientAppSettings.json
-RCO_url = "https://raw.githubusercontent.com/L8X/Roblox-Client-Optimizer/main/assets/ClientAppSettings.json" # https://roblox-client-optimizer.simulhost.com/ClientAppSettings.json is an alterative link if the following one doesn't work
+RCO_url = "https://raw.githubusercontent.com/L8X/Roblox-Client-Optimizer/main/ClientAppSettings.json" # https://roblox-client-optimizer.simulhost.com/ClientAppSettings.json is an alterative link if the following one doesn't work
 RCO = requests.get(RCO_url)
 
 try:
